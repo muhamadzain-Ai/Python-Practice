@@ -1,0 +1,12 @@
+list=[1,2,3,4]
+print(list)
+list.append(5)
+print(list)
+list.sort
+print(list)
+list.sort(reverse=True)
+print(list)
+list.reverse()
+print(list)
+list.insert(0,"hello")
+print(list)
